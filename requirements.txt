@@ -1,0 +1,9 @@
+folium
+geopandas
+osmnx
+pandas
+fastapi
+uvicorn
+pydantic
+streamlit
+requests
